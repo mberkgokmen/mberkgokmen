@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=hack&size=25&duration=3500&color=33F719&background=000000&center=true&multiline=true&width=650&height=400&lines=Berk+%F0%9F%87%B9%F0%9F%87%B7;Python+%2C+TypeScript+%2C++C%23%C2%A0;Highschool+student;Make+it+work%2C+make+it+right%2C+make+it+fast.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=hack&size=25&duration=3500&color=33F719&background=000000&center=true&multiline=true&width=650&height=200&lines=Berk+%F0%9F%87%B9%F0%9F%87%B7;Python+%2C+TypeScript+%2C++C%23%C2%A0;Highschool+student;Make+it+work%2C+make+it+right%2C+make+it+fast.)](https://git.io/typing-svg)
 
 
 
